@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "89186751432",
+    "firebase_url": "https://sampleproj-35ee3-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "sampleproj-35ee3",
+    "storage_bucket": "sampleproj-35ee3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89186751432:android:4925e71aaae696e5ac26fd",
+        "android_client_info": {
+          "package_name": "com.example.monitoring"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3bu7HOdEAfbhRuJ9W2ul0abI_kMyt8QI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89186751432:android:59c3ee3d1654970aac26fd",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3bu7HOdEAfbhRuJ9W2ul0abI_kMyt8QI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
